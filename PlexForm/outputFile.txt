@@ -1,0 +1,7 @@
+DoLeft
+A(404;466)
+OUT LEFT
+DoRight
+B(366;245)
+OUT RIGHT
+LINE | A B
